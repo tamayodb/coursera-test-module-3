@@ -2,7 +2,7 @@
 
 ## Coursera course: HTML, CSS, and Javascript for Web Developers
 
-## Click here to view the output:
+## Click here to view the output: https://tamayodb.github.io/coursera-test-module-3/
 
 ### This is a single-page responsive website. The page includes a navigation bar, a page heading, and a tall section displaying menu content. The website is built using the Twitter Bootstrap CSS Framework to ensure responsiveness across desktop, tablet, and mobile devices. Implementation details are as follows:
 * Navbar: The navbar contains the company name "Food, LLC" aligned to the left side. For desktop and tablet views, the navbar only displays the company name. Other buttons are hidden using the 'visible-xs' class.
